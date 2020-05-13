@@ -1,6 +1,6 @@
 # Investigating the effect of Company Announcements on their Share Price following COVID-19 (using the S&P 500)
 
-A lot of company valuation speculation has come about since the C0rona-VIrus-Disease-2019 (COVID-19 or COVID for short) started to impact the stock market (estimated on the 20$^{\text{th}}$ of February 2020, 2020-02-20). Many investors tried to estimate the impact of the outbreak on businesses and trade accordingly as fast as possible. In this haste, it is possible that they miss-priced the effect of COVID on certain stocks. \
+A lot of company valuation speculation has come about since the C0rona-VIrus-Disease-2019 (COVID-19 or COVID for short) started to impact the stock market (estimated on the 20th of February 2020, 2020-02-20). Many investors tried to estimate the impact of the outbreak on businesses and trade accordingly as fast as possible. In this haste, it is possible that they miss-priced the effect of COVID on certain stocks. \
 This article lays out a framework to investigate whether the Announcement of Financial Statements after COVID (*id est* (*i.e.*): after 2020-02-20) impacted the price of stocks in any specific industry sector. It will proceed simply by producing a graph of the **movement in average daily close prices for each industry - averaged from the time each company produced a Post COVID Announcement** (i.e.: after they first produced a Financial Statement after 2020-02-20). \
 From there, one may stipulate that a profitable investment strategy could consist in going long in stocks of companies (i) that did not release an announcement since COVID yet (ii) within a sector that the framework bellow suggest will probably increase in price following from such an announcement.
 
@@ -428,7 +428,7 @@ plot1ax(dataset = daily_df_trend, legend = False,
 
 The graph above shows the change in constituent companies' close prices since COVID.
 
-$ \\ $
+
 ## Saving our data
 
 The cell bellow saves variables to a 'pickle' file to quicken subsequent runs of this code if they are seen as necessary.
