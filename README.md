@@ -27,7 +27,7 @@ print("This code runs on Python version " + python_version())
     
 
  
-We use **Refinitiv's [Eikon Python Application Programming Interface (API)](https://developers.refinitiv.com/eikon-apis/eikon-data-api)** to access financial data. We can access it via the Python library "eikon" that can be installed simply by using $\textit{pip install}$.
+We use **Refinitiv's [Eikon Python Application Programming Interface (API)](https://developers.refinitiv.com/eikon-apis/eikon-data-api)** to access financial data. We can access it via the Python library "eikon" that can be installed simply by using pip install.
 
 
 ```python
