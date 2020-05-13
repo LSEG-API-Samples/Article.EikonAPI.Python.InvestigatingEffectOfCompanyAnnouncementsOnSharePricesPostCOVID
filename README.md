@@ -1,6 +1,3 @@
-# Article.EikonAPI.Python.InvestigatingEffectOfCompanyAnnouncementsOnSharePricesPostCOVID
-Creating a framework to investigate whether the Announcement of Financial Statements after COVID impacted the price of stocks in any specific industry sector.
-
 # Investigating the effect of Company Announcements on their Share Price following COVID-19 (using the S&P 500)
 
 A lot of company valuation speculation has come about since the C0rona-VIrus-Disease-2019 (COVID-19 or COVID for short) started to impact the stock market (estimated on the 20$^{\text{th}}$ of February 2020, 2020-02-20). Many investors tried to estimate the impact of the outbreak on businesses and trade accordingly as fast as possible. In this haste, it is possible that they miss-priced the effect of COVID on certain stocks. \
