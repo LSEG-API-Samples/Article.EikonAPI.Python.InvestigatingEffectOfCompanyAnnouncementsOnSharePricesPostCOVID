@@ -531,7 +531,7 @@ plot1ax(dataset = daily_df2_post_COVID_announcement_trend,
 ```
 
 
-![png](output_64_0.png)
+![Figure-1](images/output_64_0.png "Data item browser")
 
 
 Some companies have lost and gained a great deal following from their first Post-COVID-Announcement, but most seem to have changed by less than 50 United States of america Dollars (USD).
