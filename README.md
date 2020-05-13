@@ -414,7 +414,7 @@ plot1ax(dataset = daily_df_no_na,
 ```
 
 
-![png](output_44_0.png)
+![png44](images/output_44_0.png "Data item browser")
 
 
 
@@ -426,7 +426,7 @@ plot1ax(dataset = daily_df_trend, legend = False,
 ```
 
 
-![png](output_45_0.png)
+![png45](images/output_45_0.png "Data item browser")
 
 
 The graph above shows the change in constituent companies' close prices since COVID.
