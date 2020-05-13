@@ -1588,11 +1588,6 @@ for k in Sectors_list:
 ESector_average = pandas.DataFrame(data = ESector_df_by_Sector,
                                    columns = ["Average of Close Prices Post COVID Announcement"],
                                    index = Sectors_list)
-```
-
-    C:\ProgramData\Anaconda3\envs\r-tutorial\lib\site-packages\eikon\data_grid.py:247: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
-      data = pd.np.array([[get_data_value(value) for value in row] for row in data_dict['data']])
-    
 
 
 ```python
