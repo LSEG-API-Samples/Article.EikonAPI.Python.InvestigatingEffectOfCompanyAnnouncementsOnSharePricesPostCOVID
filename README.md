@@ -300,10 +300,7 @@ index_Announcement_df, index_Announcement_list = Get_Announcement_For_Index(inde
                                                                             periods_back = 3,
                                                                             show_df = False,
                                                                             show_list = False)
-```
 
-    C:\ProgramData\Anaconda3\envs\r-tutorial\lib\site-packages\eikon\data_grid.py:247: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
-      data = pd.np.array([[get_data_value(value) for value in row] for row in data_dict['data']])
     
 
 Now we can choose only announcements post COVID.
