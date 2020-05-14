@@ -1587,7 +1587,7 @@ ESector_average = pandas.DataFrame(data = ESector_df_by_Sector,
                                    index = Sectors_list)
 
 
-```python
+
 ESector_average
 ```
 
