@@ -1720,7 +1720,9 @@ Using S&P 500 (i.e.: SPX) data, we can have a wholesome picture of industries in
 The graph suggests that it may be profitable to short companies within these sectors just before they are due to release their first post-COVID Financial Statements - but naturally does not account for future changes, trade costs or other such variants external to this investigation. \
 Companies in the Financial sector seem to have performed adequately. Reasons for movements in this sector can be complex and numerous due to their exposure to all other sectors. \
 Tech companies seem to have had the impact of COVID priced in prior to the release of their financial statements. One may postulate the impact of COVID on their share price was actually positive as people rush to online infrastructures they support during confinement. \
-Companies dealing with Basic Material have performed relatively well. This may be an indication that investors are losing confidence in all but sectors that offer physical goods in supply chains (rather than in consumer goods) - a retreat to fundamentals in a time of uncertainty.
+Companies dealing with Basic Material have performed relatively well. This may be an indication that investors are losing confidence in all but sectors that offer physical goods in supply chains (rather than in consumer goods) - a retreat to fundamentals in a time of uncertainty. \
+
+**BUT** one must use both the ESector_average table and the last graph before coming to any conclusion. The ESector_average - though simple - can provide more depth to our analysis. Take the Healthcare sector for example: One may assume – based on the last graph alone – that this sector is performing badly when revealing information via Announcements; but the ESector_average shows a positive ‘Average of Close Prices Post COVID Announcement’. This is because only very few companies within the Healthcare sector published Announcements before May 2020, and the only ones that did performed badly, skewing the data negatively on the graph.
 
 
 ```python
