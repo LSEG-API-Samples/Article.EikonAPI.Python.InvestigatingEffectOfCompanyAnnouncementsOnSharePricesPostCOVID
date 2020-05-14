@@ -1710,7 +1710,7 @@ plot1ax(dataset = Sector_Average, ylabel = "Price Movement",
 ```
 
 
-![png](output_80_0.png)
+![png45](images/output_80_0.png "Data item browser")
 
 
  
